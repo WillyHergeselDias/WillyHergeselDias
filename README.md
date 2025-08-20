@@ -36,8 +36,6 @@
 
 ---
 
-## 🧾 Mensagem Final em C++
-
 ```cpp
 #include <iostream>
 
